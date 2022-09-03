@@ -9,8 +9,7 @@ img {
 }
 .img {
     display: block;
-    max-width: 500px;
-    margin-top: 30px;
+    max-width: 800px;
 }
 body {
     background: #1e1e1e;
