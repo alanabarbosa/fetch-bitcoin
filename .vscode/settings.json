@@ -1,0 +1,5 @@
+{
+    "livePreview.defaultPreviewPath": "/index.html",
+    "liveServer.settings.port": 5502,
+    "typescript.tsdk": "node_modules/typescript/lib"
+}
